@@ -1,0 +1,109 @@
+=== google/gemma-4-26b-a4b-it ===
+This recipe is designed to provide a satisfying breakfast for four people while swapping out refined sugars and processed flours for nutrient-dense alternatives.
+
+### **The "Better-For-You" Pancake Recipe**
+*Servings: 4 (Approx. 3–4 pancakes per person)*
+*Prep time: 10 mins | Cook time: 15 mins*
+
+#### **Ingredients**
+*   **2 cups Whole Wheat Pastry Flour** (or Oat Flour)
+*   **2 tsp Baking Powder**
+*   **½ tsp Baking Soda**
+*   **¼ tsp Salt**
+*   **1 ½ cups Unsweetened Almond Milk** (or Soy/Oat milk)
+*   **2 Large Eggs**
+*   **2 tbsp Melted Coconut Oil** (or Avocado Oil)
+*   **1 tbsp Pure Maple Syrup** (for the batter)
+*   **1 tsp Vanilla Extract**
+
+---
+
+### **The Healthy Substitutes Explained**
+
+When making traditional pancakes, recipes often rely on white flour, refined sugar, and butter. Here is why we changed them:
+
+| Traditional Ingredient | Healthy Substitute | **The "Why" (Benefits)** |
+| :--- | :--- | :--- |
+| **White All-Purpose Flour** | **Whole Wheat or Oat Flour** | White flour is stripped of nutrients. Whole wheat and oat flour provide **fiber**, which slows digestion and prevents blood sugar spikes. |
+| **Granulated Sugar** | **Pure Maple Syrup** | Granulated sugar is "empty calories." Maple syrup contains trace amounts of minerals (manganese/zinc) and has a lower glycemic index. |
+| **Dairy Milk** | **Unsweetened Nut/Grain Milk** | Using unsweetened almond or soy milk reduces saturated fat and can be easier on the gut for those with lactose sensitivity. |
+| **Butter** | **Coconut or Avocado Oil** | Butter is high in saturated fats. Coconut or avocado oils provide **healthy fats** that support brain health and satiety. |
+
+---
+
+### **Instructions**
+
+1.  **Mix Dry Ingredients:** In a large bowl, whisk together the flour, baking powder, baking soda, and salt. Ensure there are no large lumps.
+2.  **Mix Wet Ingredients:** In a separate medium bowl, whisk the eggs, milk, melted oil, maple syrup, and vanilla extract until well combined.
+3.  **Combine:** Pour the wet ingredients into the dry ingredients. **Important:** Stir with a spatula just until the flour streaks disappear. *Do not overmix!* A few small lumps are okay; overmixing makes pancakes rubbery instead of fluffy.
+4.  **Heat the Pan:** Lightly coat a non-stick skillet or griddle with a tiny bit of coconut oil and heat over medium-low heat. 
+5.  **Cook:** Pour about ¼ cup of batter for each pancake. Wait until bubbles form on the surface and the edges look dry (about 2–3 minutes). Flip carefully and cook for another 1–2 minutes until golden brown.
+6.  **Serve:** Repeat with remaining batter.
+
+---
+
+### **Pro-Tips for a Healthier Topping Station**
+Instead of drenching your pancakes in syrup, try these nutrient-dense toppings:
+
+*   **Protein Boost:** A dollop of **Greek Yogurt** instead of whipped cream.
+*   **Healthy Fats/Fiber:** Sliced **avocado** (sounds strange, but works!) or a spoonful of **almond butter**.
+*   **Antioxidants:** Fresh **blueberries, raspberries, or strawberries**.
+*   **Natural Sweetness:** A sprinkle of **cinnamon** (helps regulate blood sugar) and a very light drizzle of honey or maple syrup.
+
+=== meta-llama/llama-3.1-8b-instruct ===
+Here's a pancake recipe for four people that uses healthy substitutes for traditional ingredients. I've replaced refined flour with whole wheat flour, reduced the sugar content, and used healthier alternatives for the eggs and milk.
+
+**Healthy Pancake Recipe for Four People**
+
+**Ingredients:**
+
+* 1 cup whole wheat flour (replaces refined flour)
+* 2 tablespoons almond milk (replaces regular milk)
+* 1 egg replacement (see below)
+* 1/4 teaspoon baking powder
+* 1/4 teaspoon salt
+* 1 tablespoon honey (replaces refined sugar)
+* 1 tablespoon melted coconut oil (replaces butter)
+* 1 teaspoon vanilla extract
+
+**Egg Replacement:**
+
+* 1 flax egg (1 tablespoon ground flaxseed + 3 tablespoons water, mixed and allowed to gel for 5 minutes)
+* or 1/4 cup mashed banana (replaces egg)
+
+**Instructions:**
+
+1. In a large bowl, whisk together the whole wheat flour, baking powder, and salt.
+2. In a separate bowl, whisk together the almond milk, egg replacement, and honey.
+3. Add the melted coconut oil and vanilla extract to the wet ingredients and whisk until combined.
+4. Pour the wet ingredients into the dry ingredients and stir until a smooth batter forms.
+5. The batter should still be slightly lumpy. If it's too thick, add a little more almond milk.
+6. Heat a non-stick skillet or griddle over medium heat. Grease with a small amount of coconut oil if necessary.
+7. Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.
+8. Cook the pancakes for 2-3 minutes on the first side, until bubbles appear on the surface and the edges start to dry.
+9. Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.
+10. Serve the pancakes warm with your favorite toppings, such as fresh fruit, maple syrup, or yogurt.
+
+**Why these healthy substitutes?**
+
+* Whole wheat flour provides more fiber and nutrients compared to refined flour.
+* Almond milk is a low-calorie, low-fat alternative to regular milk.
+* Flaxseed (or mashed banana) replaces eggs, providing a plant-based source of protein and omega-3 fatty acids.
+* Coconut oil is a healthier alternative to butter, with a higher smoke point and potential health benefits.
+* Honey is a natural sweetener with antimicrobial properties, but use it sparingly to reduce sugar content.
+
+**Nutrition Information (approximate):**
+
+Per serving (2 pancakes):
+
+* Calories: 250
+* Fat: 10g
+* Saturated fat: 5g
+* Cholesterol: 20mg
+* Carbohydrates: 35g
+* Fiber: 4g
+* Protein: 5g
+* Sodium: 200mg
+
+Enjoy your delicious and healthy pancakes!
+
