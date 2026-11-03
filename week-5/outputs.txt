@@ -1,0 +1,16 @@
+Jay  --> fired: had_means
+Jay  --> fired: had_motive
+Jay  --> fired: had_opportunity
+Jay  --> fired: prime_suspect
+Jay - passes: 3
+Jay prime suspect? True
+
+Jessie  --> fired: had_means
+Jessie  --> fired: had_opportunity
+Jessie - passes: 2
+Jessie prime suspect? False
+
+Beth  --> fired: had_motive
+Beth - passes: 2
+Beth prime suspect? False
+
