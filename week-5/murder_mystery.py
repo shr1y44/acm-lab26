@@ -1,11 +1,11 @@
 
 def investigate(name, clues):
     rules = [
-        {"if": {"had_means", "had_motive", "had_opportunity"}, "then": "prime_suspect"},
         {"if": {"owns_chef_knives", "watches_true_crime"}, "then": "had_means"},
         {"if": {"criminal_record"}, "then": "had_means"},
         {"if": {"passed_over_for_promotion"}, "then": "had_motive"},
-        {"if": {"was_home_at_10pm"}, "then": "had_opportunity"}
+        {"if": {"was_home_at_10pm"}, "then": "had_opportunity"},
+        {"if": {"had_means", "had_motive", "had_opportunity"}, "then": "prime_suspect"}
     ]
     facts = set(clues)
     changed = True
